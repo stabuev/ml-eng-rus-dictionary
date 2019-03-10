@@ -13,3 +13,11 @@ A statistical way of comparing two (or more) techniques, typically an incumbent 
 Статистический способ сравнения двух (и более техник), обычно текущей сравниваемой с новой. Цель A/B тестирования не только определить которая из техник работает лучше, но также понять является ли разница статистически значимой. A/B тестирование обычно рассматривает только две техники использующие одну и ту же оценку, но оно может быть применено
 к любому конечному количеству техник и систем оценок.
 
+**accuracy - точность**
+
+The fraction of predictions that a classification model got right. In multi-class classification, accuracy is defined as follows:
+
+In binary classification, accuracy has the following definition:
+
+See true positive and true negative.
+
